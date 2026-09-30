@@ -6,4 +6,4 @@ These are my programs 3rd semester programs
 
 | Directory | Language / Category | Total Programs |
 |:---|:---|:---:|
-| [Python](./Python) | Python | 20 |
+| [Python](./Python) | Python | 24 |

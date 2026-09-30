@@ -1,2 +1,10 @@
 # Local timestamp tracker
 last_sync_time.txt
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# DBMS task
+DBMS/
+*.db
