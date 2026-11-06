@@ -26,3 +26,9 @@
 | `decorator_double_result.py` | Program 22 | Implements a decorator `double_result` that doubles the return value of an addition function `add(a, b)`. |
 | `generator_countdown.py` | Program 23 | Implements a generator function `countdown(n)` that yields numbers counting down from n to 1. |
 | `generator_even_numbers.py` | Program 24 | Implements a generator function `even_numbers(limit)` that yields all even numbers up to a given limit (e.g., 10). |
+| `tcp_client_connect.py` | Program 25 | Creates a simple TCP client connecting to localhost on port 8080 and sending a message. |
+| `tcp_server_listen.py` | Program 26 | Creates a TCP server listening on port 8080 that prints any data received from the client. |
+| `tcp_server_ack.py` | Program 27 | TCP server on port 8080 that receives client data and responds back with "Message received". |
+| `tcp_client_send_receive.py` | Program 28 | Interactive TCP client that sends user-input text to server and displays the server's response. |
+| `tcp_socket_proper_closure.py` | Program 29 | Demonstrates closing socket connection properly from both client and server sides using `shutdown()` and `close()`. |
+
